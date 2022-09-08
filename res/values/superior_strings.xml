@@ -98,4 +98,8 @@
      <!-- Ambient Ticker -->
      <string name="pulse_on_new_tracks_title">Music ticker</string>
      <string name="pulse_on_new_tracks_summary">Show music ticker on Ambient Display during track change or now playing song detection</string>
+
+     <!--3-Finger screenshot-->
+     <string name="three_finger_gesture">Three finger gesture</string>
+     <string name="three_finger_gesture_summary">Swipe three finger to screenshot</string>
 </resources>
